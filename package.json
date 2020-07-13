@@ -34,7 +34,7 @@
     "@types/tape": "^4.2.31",
     "rollup": "^1.0",
     "rollup-plugin-typescript": "^1.0",
-    "standard-version": "^7.0",
+    "standard-version": "^8.0",
     "tape": "^4.11.0",
     "typedoc": "^0.15.0",
     "typescript": "^3.5"
